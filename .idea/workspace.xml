@@ -1,15 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d34259ed-1082-43a5-bc24-16dc69729cef" name="Changes" comment="" />
+    <list default="true" id="d34259ed-1082-43a5-bc24-16dc69729cef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/src/main/java/org/example/objectgui/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/src/main/java/org/example/objectgui/Animal/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/src/main/java/org/example/objectgui/Animal/TestaAnimal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/src/main/java/org/example/objectgui/Bandeiras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/src/main/java/org/example/objectgui/HelloController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/src/main/resources/org/example/objectgui/Animal-View.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/target/classes/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/target/classes/org/example/objectgui/Animal-View.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/target/classes/org/example/objectgui/Animal/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/target/classes/org/example/objectgui/Animal/TestaAnimal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/object-gui/target/classes/org/example/objectgui/Bandeiras.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2oX3l9LNoVjJFPpqXekfTAR1L7Z" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,9 +47,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TestaAnimal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/alexander.lima/Documents/codes/programming",
+    "last_opened_file_path": "C:/Users/Noite/Documents/GitHub/object-gui",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -27,8 +64,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
       </set>
     </attachedChunks>
   </component>
@@ -41,6 +78,8 @@
       <option name="presentableId" value="Default" />
       <updated>1731002241421</updated>
       <workItem from="1731002242426" duration="61000" />
+      <workItem from="1731021805845" duration="414000" />
+      <workItem from="1731022234685" duration="140000" />
     </task>
     <servers />
   </component>

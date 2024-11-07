@@ -1,4 +1,4 @@
-package org.example.objectgui;
+package org.example.objectgui.Animal;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
