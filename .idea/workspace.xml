@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d34259ed-1082-43a5-bc24-16dc69729cef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/application/src/main/java/org/example/objectgui/Bandeiras/TestaBandeiras.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/src/main/java/org/example/objectgui/Bandeiras.java" beforeDir="false" afterPath="$PROJECT_DIR$/application/src/main/java/org/example/objectgui/Bandeiras/Bandeiras.java" afterDir="false" />
-    </list>
+    <list default="true" id="d34259ed-1082-43a5-bc24-16dc69729cef" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,7 +70,7 @@
       <workItem from="1731002242426" duration="61000" />
       <workItem from="1731021805845" duration="414000" />
       <workItem from="1731022234685" duration="140000" />
-      <workItem from="1731022468404" duration="306000" />
+      <workItem from="1731022468404" duration="939000" />
     </task>
     <servers />
   </component>
